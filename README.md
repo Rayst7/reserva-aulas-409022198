@@ -1,5 +1,5 @@
 # Sistema de Reservas de Aulas
-
+## Raymid Gilberto Heseth Caal Morales
 ## 📌 Descripción
 Este proyecto permite a los estudiantes de la universidad **reservar aulas** para reuniones, tutorías y proyectos académicos. También facilita la gestión de reservas por parte de los **administradores**, quienes pueden **aprobar o rechazar** las solicitudes.
 
